@@ -9,4 +9,5 @@
 * [第六章 仲裁机构](chapter/ch6.md)
 * [第七章 修正](chapter/ch7.md)
 * [第八章 附则](chapter/ch8.md)
+* [附录](chapter/appendix.md)
 
